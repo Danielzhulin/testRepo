@@ -10,7 +10,10 @@ public class HelloWorld {
 	//Test commit
 	
 	//Test2
-
+	public void doSomething() {
+		
+	}
+	
 	public String getNumber() {
 		return number;
 	}
